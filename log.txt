@@ -1,0 +1,57 @@
+FIRST
+
+* 91faddb - (HEAD -> dev) Update4
+| (30 seconds ago) <Metra>
+* 0fad245 - Update3
+| (39 seconds ago) <Metra>
+* 5e6073b - Update2
+| (48 seconds ago) <Metra>
+* da885cd - Update1
+| (65 seconds ago) <Metra>
+* 584befe - (origin/dev) Update Readme.md and Add Main.java
+| (4 minutes ago) <Metra>
+* ba5f972 - Update Readme.md and Add Main.java
+| (5 minutes ago) <Metra>
+* 96b3b39 - (origin/main, origin/HEAD, main) Update Readme.md and Add Main.java
+| (9 minutes ago) <Metra>
+* 0d86e7b - Update Readme.md(main)
+| (10 minutes ago) <Metra>
+* 5ae9f96 - Update README.md
+| (17 minutes ago) <metratol>
+* 6db6d38 - Initial commit
+  (18 minutes ago) <metratol>
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+
+
+SECOND
+* 91faddb - (HEAD -> dev) Update4
+| (5 minutes ago) <Metra>
+* 0fad245 - Update3
+| (5 minutes ago) <Metra>
+* 5e6073b - Update2
+| (5 minutes ago) <Metra>
+* da885cd - Update1
+| (5 minutes ago) <Metra>
+* 584befe - (origin/dev) Update Readme.md and Add Main.java
+| (9 minutes ago) <Metra>
+* ba5f972 - Update Readme.md and Add Main.java
+| (10 minutes ago) <Metra>
+* 96b3b39 - (origin/main, origin/HEAD, main) Update Readme.md and Add Main.java
+| (13 minutes ago) <Metra>
+* 0d86e7b - Update Readme.md(main)
+| (15 minutes ago) <Metra>
+* 5ae9f96 - Update README.md
+| (22 minutes ago) <metratol>
+* 6db6d38 - Initial commit
+  (23 minutes ago) <metratol>
+
+
+THIRD

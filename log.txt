@@ -55,3 +55,37 @@ SECOND
 
 
 THIRD
+
+* ca4b4f7 - (HEAD -> dev, origin/dev) Merging
+| (2 minutes ago) <Metra>
+*   e6eca00 - Update4
+|\  (2 minutes ago) <Metra>
+| * d396872 - (origin/main, origin/HEAD, main) Update4
+| | (7 minutes ago) <Metra>
+| * 4c3b034 - Update3
+| | (7 minutes ago) <Metra>
+| * 5a67056 - Update2
+| | (7 minutes ago) <Metra>
+| * c037eec - Update1
+| | (7 minutes ago) <Metra>
+* | 91faddb - Update4
+| | (13 minutes ago) <Metra>
+* | 0fad245 - Update3
+| | (13 minutes ago) <Metra>
+* | 5e6073b - Update2
+| | (13 minutes ago) <Metra>
+* | da885cd - Update1
+| | (14 minutes ago) <Metra>
+* | 584befe - Update Readme.md and Add Main.java
+| | (17 minutes ago) <Metra>
+* | ba5f972 - Update Readme.md and Add Main.java
+|/  (18 minutes ago) <Metra>
+* 96b3b39 - Update Readme.md and Add Main.java
+| (22 minutes ago) <Metra>
+* 0d86e7b - Update Readme.md(main)
+| (23 minutes ago) <Metra>
+* 5ae9f96 - Update README.md
+| (30 minutes ago) <metratol>
+* 6db6d38 - Initial commit
+  (31 minutes ago) <metratol>
+
